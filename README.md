@@ -1,15 +1,3 @@
 # XsenTools
 
-sudo apt update && sudo apt upgrade 
-
-sudo apt install python3 
-
-sudo apt install python3-pip 
-
-pip3 install socket requests pyfiglet colorama
-
-git clone https://github.com/HugaHazimufikri/XsenTools
-
-cd XsenTools
-
-python3 XsenTools.py
+![Cuplikan layar 2025-03-03 203213](https://github.com/user-attachments/assets/cad657e4-a522-4833-aef7-4e3f2d47457f)
